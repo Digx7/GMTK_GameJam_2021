@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Projects/2D Side scroller/Scenes/Woods_Loop01_TEMP.unity
     guid: e63017dbdf822164f88b7b93f8076576
+  - enabled: 1
+    path: Assets/Projects/2D Side scroller/Scenes/MainMenu.unity
+    guid: 7f599c19c1ccb3d48bb8d6f610a569b1
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 3af6e52e6eaef4929b0f72c0023b4ed4,
       type: 2}
