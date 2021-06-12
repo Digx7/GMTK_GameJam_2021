@@ -11,22 +11,22 @@ public class PlayerMovement : MonoBehaviour
     public int speed;
     public int gravityForce;
     [Space]
-    public PaperPlayer PaperPlayer;
+    //public PaperPlayer PaperPlayer;
     public Animator paperPlayerAnimator;
     [Space]
     private bool doOnce_R = true, doOnce_L = false;
 
     public void Awake ()
     {
-      PaperPlayer = new PaperPlayer();
+      //PaperPlayer = new PaperPlayer();
 
       // set up inputs
-      PaperPlayer.Movement.Move.performed += ctx => movementInput = ctx.ReadValue<Vector2>();
+      //PaperPlayer.Movement.Move.performed += ctx => movementInput = ctx.ReadValue<Vector2>();
     }
 
     public void FixedUpdate ()
     {
-      move(movementInput);
+      //move(movementInput);
     }
 
 
@@ -73,7 +73,7 @@ public class PlayerMovement : MonoBehaviour
       }
     }
 
-    private void OnEnable()
+    /*private void OnEnable()
     {
       PaperPlayer.Enable();
     }
@@ -81,6 +81,6 @@ public class PlayerMovement : MonoBehaviour
     private void OnDisable()
     {
       PaperPlayer.Disable();
-    }
+    }*/
 
 }
