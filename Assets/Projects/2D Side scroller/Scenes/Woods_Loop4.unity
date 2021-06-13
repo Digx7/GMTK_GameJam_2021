@@ -2496,7 +2496,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31b91498776cc3245bcec4b7ea7be0da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameOfNextLoopScene: Woods_Loop1
+  nameOfNextLoopScene: ThanksForPlaying
 --- !u!1001 &1079961031
 PrefabInstance:
   m_ObjectHideFlags: 0
