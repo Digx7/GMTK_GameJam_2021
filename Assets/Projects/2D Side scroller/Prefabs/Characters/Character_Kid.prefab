@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8418829930696645838}
   - component: {fileID: 1497816413856405605}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane_Front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8418829930729880551}
   - component: {fileID: 8418829930729880544}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Character Animator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -126,7 +126,7 @@ Animator:
   m_GameObject: {fileID: 8418829930729880549}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 9fc3f316635f6ce4c92e9ea62b5a4e85, type: 2}
+  m_Controller: {fileID: 9100000, guid: 8bda65f7e343f184191daacc1a528018, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -145,7 +145,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8418829931879579444}
   - component: {fileID: 8418829931879579445}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: code
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -223,7 +223,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8418829931892475886}
   - component: {fileID: 8418829931892475887}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Colision
   m_TagString: Kid
   m_Icon: {fileID: 0}
@@ -268,7 +268,7 @@ GameObject:
   - component: {fileID: 8418829932225721474}
   - component: {fileID: 8418829932225721475}
   - component: {fileID: 8418829932225721484}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Character_Kid
   m_TagString: Untagged
   m_Icon: {fileID: 0}

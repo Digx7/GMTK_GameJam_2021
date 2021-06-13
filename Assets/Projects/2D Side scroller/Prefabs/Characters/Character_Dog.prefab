@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3425582831468017472}
   - component: {fileID: 3425582831468017473}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Colision
   m_TagString: Kid
   m_Icon: {fileID: 0}
@@ -54,7 +54,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3425582831473577882}
   - component: {fileID: 3425582831473577883}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: code
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 3425582832335848492}
   - component: {fileID: 3425582832335848493}
   - component: {fileID: 3425582832335848482}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Character_Dog
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -202,7 +202,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3425582832421629024}
   - component: {fileID: 5735048595596011723}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane_Front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -286,7 +286,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3425582832454978377}
   - component: {fileID: 3425582832454978382}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Character Animator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -318,7 +318,7 @@ Animator:
   m_GameObject: {fileID: 3425582832454978379}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 9fc3f316635f6ce4c92e9ea62b5a4e85, type: 2}
+  m_Controller: {fileID: 9100000, guid: 36383a89b2addf14985957eee5d40e95, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
