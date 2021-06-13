@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Projects/2D Side scroller/Scenes/Woods_Loop00_TEMP.unity
     guid: 8d2a6209d6a399045aea935a2b5b8b8a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Projects/2D Side scroller/Scenes/Woods_Loop01_TEMP.unity
     guid: e63017dbdf822164f88b7b93f8076576
   - enabled: 1
