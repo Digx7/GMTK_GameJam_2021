@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: ea5c793b94d8c6541ac88a24f6927a9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3466047781935238315
+    second: Bush1_Night
+  - first:
+      213: -8971263318790790517
+    second: Rock1_Night
+  - first:
+      213: -4712007344961193002
+    second: Rock2_Night
+  - first:
+      213: 3334587929711059279
+    second: Stump2_Night
+  - first:
+      213: -1534341450093931212
+    second: Rock3_Night
+  - first:
+      213: 6877259223715504920
+    second: Rock5_Night
+  - first:
+      213: 3681667341443049209
+    second: Bush_Night
+  - first:
+      213: -8992368576558143791
+    second: Stump1_Night
+  - first:
+      213: 4955867485413941709
+    second: Stump4_Night
+  - first:
+      213: 1567621997312393508
+    second: Rock4_Night
+  - first:
+      213: -6824159501662922261
+    second: Rock6_Night
+  - first:
+      213: -5132173192181364536
+    second: Grass1_Night
+  - first:
+      213: 1330987736277041568
+    second: Grass2_Night
+  - first:
+      213: 3179278955044940402
+    second: Stump3_Night
+  - first:
+      213: -407364505967882685
+    second: Grass11_Night
+  - first:
+      213: 7114785253174300737
+    second: Rock7_Night
+  - first:
+      213: -2668771826568882412
+    second: Grass3_Night
+  - first:
+      213: -2804233230876743730
+    second: Grass10_Night
+  - first:
+      213: -2846895529848036895
+    second: Rock8_Night
+  - first:
+      213: -4996219613710897820
+    second: Grass4_Night
+  - first:
+      213: 2369645513378332198
+    second: Grass5_Night
+  - first:
+      213: -1288656883334259368
+    second: Bush3_Night
+  - first:
+      213: 6029319063144829009
+    second: Bush4_Night
+  - first:
+      213: 2060287671764625643
+    second: Grass6_Night
+  - first:
+      213: -1025046523827570120
+    second: Grass7_Night
+  - first:
+      213: -6312425853871533685
+    second: Grass8_Night
+  - first:
+      213: 3497547034199257046
+    second: Grass9_Night
+  - first:
+      213: -903846077926828979
+    second: Grass9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bush1_Night
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2538
+        width: 860
+        height: 537
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacc7c00810e91030800000000000000
+      internalID: 3466047781935238315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock1_Night
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 2821
+        width: 254
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82abf81b8baf7380800000000000000
+      internalID: -8971263318790790517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock2_Night
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2794
+        width: 627
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db7e88f8469b9eb0800000000000000
+      internalID: -4712007344961193002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stump2_Night
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 2431
+        width: 455
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41abbefd06d64e20800000000000000
+      internalID: 3334587929711059279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock3_Night
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 2538
+        width: 291
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4355ef6949ce4bae0800000000000000
+      internalID: -1534341450093931212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock5_Night
+      rect:
+        serializedVersion: 2
+        x: 4322
+        y: 2846
+        width: 594
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81367d1a3dee07f50800000000000000
+      internalID: 6877259223715504920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_Night
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 2242
+        width: 626
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6aed3d0f8e71330800000000000000
+      internalID: 3681667341443049209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stump1_Night
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 2498
+        width: 495
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6edd85c60b43380800000000000000
+      internalID: -8992368576558143791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stump4_Night
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 2205
+        width: 439
+        height: 589
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1a10e7837c6c440800000000000000
+      internalID: 4955867485413941709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock4_Night
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 2563
+        width: 613
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421c4e3a6ef41c510800000000000000
+      internalID: 1567621997312393508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock6_Night
+      rect:
+        serializedVersion: 2
+        x: 4563
+        y: 2500
+        width: 363
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be956c4d617bb41a0800000000000000
+      internalID: -6824159501662922261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass1_Night
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1790
+        width: 266
+        height: 579
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c84f325cabd6c8b0800000000000000
+      internalID: -5132173192181364536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass2_Night
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1576
+        width: 355
+        height: 924
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1c1355b4e987210800000000000000
+      internalID: 1330987736277041568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stump3_Night
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 2083
+        width: 515
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a24557d511f1c20800000000000000
+      internalID: 3179278955044940402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass11_Night
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 1466
+        width: 326
+        height: 649
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e8eafd320c85af0800000000000000
+      internalID: -407364505967882685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock7_Night
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 1501
+        width: 1367
+        height: 940
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14054a4fd7bccb260800000000000000
+      internalID: 7114785253174300737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass3_Night
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1347
+        width: 390
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4179acad92e96fad0800000000000000
+      internalID: -2668771826568882412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass10_Night
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 1474
+        width: 159
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7ee36ebbc5519d0800000000000000
+      internalID: -2804233230876743730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock8_Night
+      rect:
+        serializedVersion: 2
+        x: 4242
+        y: 616
+        width: 761
+        height: 893
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1a2ce599bcd78d0800000000000000
+      internalID: -2846895529848036895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass4_Night
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 848
+        width: 375
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d2ce08bbcd9aab0800000000000000
+      internalID: -4996219613710897820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass5_Night
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 964
+        width: 750
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e738c1a0ca2e020800000000000000
+      internalID: 2369645513378332198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush3_Night
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 711
+        width: 1352
+        height: 579
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ddf776465cd1ee0800000000000000
+      internalID: -1288656883334259368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush4_Night
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 99
+        width: 594
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1501d344eb17ca350800000000000000
+      internalID: 6029319063144829009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass6_Night
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 87
+        width: 428
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8a5aab8bc979c10800000000000000
+      internalID: 2060287671764625643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass7_Night
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 142
+        width: 127
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a32051e9d46c1f0800000000000000
+      internalID: -1025046523827570120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass8_Night
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 152
+        width: 147
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81defc6122c568a0800000000000000
+      internalID: -6312425853871533685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass9_Night
+      rect:
+        serializedVersion: 2
+        x: 4439
+        y: 124
+        width: 233
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfeaae2f78c98030800000000000000
+      internalID: 3497547034199257046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass9
+      rect:
+        serializedVersion: 2
+        x: 4750
+        y: 154
+        width: 188
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d449a89e7c4e473f0800000000000000
+      internalID: -903846077926828979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
