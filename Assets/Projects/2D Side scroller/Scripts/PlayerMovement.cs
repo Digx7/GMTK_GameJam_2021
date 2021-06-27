@@ -32,7 +32,8 @@ public class PlayerMovement : MonoBehaviour
       move(movementInput);
     }
 
-    public void setMovementInput(Vector2 input){
+    public void setMovementInput(Vector2 input)
+    {
       movementInput = input;
     }
 
@@ -95,7 +96,14 @@ public class PlayerMovement : MonoBehaviour
       playerVelocity.y = jumpSpeed;
 
       playerRB.velocity = playerVelocity;
+
+      touchingGround = false;
       }
+    }
+
+    public void TouchedGround()
+    {
+      touchingGround = true;
     }
 
     /*private void OnEnable()
