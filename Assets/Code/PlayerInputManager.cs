@@ -18,6 +18,7 @@ public class PlayerInputManager : MonoBehaviour {
     [SerializeField] private Vector2Event moveInput;
     [SerializeField] private UnityEvent InteractInput;
     [SerializeField] private UnityEvent SwapInput;
+    [SerializeField] private UnityEvent JumpInput;
 
     // --- Updates -------------------------------------
 
@@ -59,14 +60,19 @@ public class PlayerInputManager : MonoBehaviour {
     {
         if(isOn)SwapInput.Invoke();
     }
+    private void JumpInputEvent()
+    {
+      if(isOn)JumpInput.Invoke();
+    }
 
     // --- BindingInputs ----------------------------------
 
     // This script will bind the inputs on the Input action map to the needed script
     public void BindInputs() {
-        Player.Movement.Move.performed += ctx => this.setMoveDirection(ctx.ReadValue<Vector2>());
-        Player.Movement.Interact.performed += ctx => this.InteractInputEvent();
-        Player.Movement.Swap.performed += ctx => this.SwapInputEvent();
+        Player.Movement.Move.performed += ctx => setMoveDirection(ctx.ReadValue<Vector2>());
+        Player.Movement.Interact.performed += ctx => InteractInputEvent();
+        Player.Movement.Swap.performed += ctx => SwapInputEvent();
+        Player.Movement.Jump.performed += ctx => JumpInputEvent();
     }
 
     // --- Enable/Disable --------------------------------

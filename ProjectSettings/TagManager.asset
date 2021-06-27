@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Kid
   - Dog
+  - Ground
   layers:
   - Default
   - TransparentFX
