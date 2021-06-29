@@ -8,8 +8,11 @@ public class PlayerMovement : MonoBehaviour
     public Rigidbody playerRB;
     public GameObject playerCharacterSprite;
     public Vector2 movementInput;
+    [SerializeField] private Vector3 playerVelocity;
     public int speed;
+    public int jumpSpeed;
     public int gravityForce;
+    public bool touchingGround = false;
     [Space]
     //public PaperPlayer PaperPlayer;
     public Animator paperPlayerAnimator;
@@ -26,19 +29,27 @@ public class PlayerMovement : MonoBehaviour
 
     public void FixedUpdate ()
     {
-      //move(movementInput);
+      move(movementInput);
     }
 
-
-
-    public void move (Vector2 input)
+    public void setMovementInput(Vector2 input)
     {
+      movementInput = input;
+    }
+
+    private void move (Vector2 input)
+    {
+
+      playerVelocity = playerRB.velocity;
+
       if(input.x >= 0.1 || input.x <= -0.1)
       {
         //Vector3 target = new Vector3(playerCharacter.transform.position.x + input.x,0,0);
         //playerCharacter.transform.position = Vector3.MoveTowards(playerCharacter.transform.position, target, Time.deltaTime * speed);
-        Vector3 move = new Vector3(input.x * speed,0,0);
-        playerRB.velocity = move;
+        //Vector3 move = new Vector3(input.x * speed,0,0);
+        //playerRB.velocity = move;
+
+        playerVelocity.x = input.x * speed;
 
         paperPlayerAnimator.SetBool("isMoving",true);
 
@@ -69,8 +80,30 @@ public class PlayerMovement : MonoBehaviour
       else
       {
         paperPlayerAnimator.SetBool("isMoving",false);
-        playerRB.velocity = new Vector3(0,0,0);
+        playerVelocity.x = 0.0f;
+        playerVelocity.z = 0.0f;
       }
+
+      playerRB.velocity = playerVelocity;
+    }
+
+    public void Jump ()
+    {
+      if(touchingGround)
+      {
+      playerVelocity = playerRB.velocity;
+
+      playerVelocity.y = jumpSpeed;
+
+      playerRB.velocity = playerVelocity;
+
+      touchingGround = false;
+      }
+    }
+
+    public void TouchedGround()
+    {
+      touchingGround = true;
     }
 
     /*private void OnEnable()
