@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 756109a181324d14e918f4def95170cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4704839940325976177
+    second: Night Blurred Bush 1
+  - first:
+      213: 9050790950855659420
+    second: Night Blurred Rock 2
+  - first:
+      213: 3552988557776024908
+    second: Night Blurred Rock 3
+  - first:
+      213: 7636730864427991609
+    second: Night Blurred Stump 2
+  - first:
+      213: 5242084447554293542
+    second: Night Blurred Stump 3
+  - first:
+      213: -7772130093877582560
+    second: Night Blurred Rock 4
+  - first:
+      213: 7193158971450532462
+    second: Night Blurred Rock 5
+  - first:
+      213: -463552065405040452
+    second: Night Blurred Rock 6
+  - first:
+      213: -693547223309908098
+    second: Night Blurred Grass 2
+  - first:
+      213: -7524455795864625943
+    second: Night Blurred Stump 1
+  - first:
+      213: -2038722986179078018
+    second: Night Blurred Rock 8
+  - first:
+      213: -8473928767402429802
+    second: Night Blurred Rock 7
+  - first:
+      213: -8988071274514610170
+    second: Night Blurred Grass 1
+  - first:
+      213: 7745117249307352198
+    second: Night Blurred Bush 2
+  - first:
+      213: -6273635214919260731
+    second: Night Blurred Stump 4
+  - first:
+      213: 8421551136663107009
+    second: Night Blurred Grass 4
+  - first:
+      213: 4950649917271580557
+    second: Night Blurred Grass 5
+  - first:
+      213: 6715307453169711316
+    second: Night Blurred Rock 1
+  - first:
+      213: -2852605708784283454
+    second: Night Blurred Bush 3
+  - first:
+      213: 509058531285347650
+    second: Night Blurred Grass 3
+  - first:
+      213: 8425258967625672979
+    second: Night Blurred Bush 5
+  - first:
+      213: 3540116783965669804
+    second: Night Blurred Bush 4
+  - first:
+      213: 8515196485067370993
+    second: Night Blurred Bush 6
+  - first:
+      213: 1673131315237210717
+    second: Night Blurred Berry Plant
+  - first:
+      213: 4489997146475613881
+    second: Night Blurred Grass 6
+  - first:
+      213: 8628500416610761988
+    second: Night Blurred Grass 7
+  - first:
+      213: -7433933671734505835
+    second: Night Blurred Grass 8
+  - first:
+      213: 4963721390233692050
+    second: Night Blurred Grass 9
+  - first:
+      213: 3822822682002789638
+    second: Night Blurred Rock 9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Night Blurred Bush 1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2569
+        width: 930
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17823389ff2fa4140800000000000000
+      internalID: 4704839940325976177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Rock 2
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 2774
+        width: 323
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f421aaa6eda9d70800000000000000
+      internalID: 9050790950855659420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Rock 3
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 2679
+        width: 691
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45744dc440ce4130800000000000000
+      internalID: 3552988557776024908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Stump 2
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 2411
+        width: 517
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9320e73924e1bf960800000000000000
+      internalID: 7636730864427991609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Stump 3
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 2172
+        width: 470
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fc2130800afb840800000000000000
+      internalID: 5242084447554293542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Rock 4
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 2503
+        width: 340
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025ad4eabd8d32490800000000000000
+      internalID: -7772130093877582560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Rock 5
+      rect:
+        serializedVersion: 2
+        x: 3763
+        y: 2528
+        width: 678
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62293a39fb33d360800000000000000
+      internalID: 7193158971450532462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Rock 6
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 2811
+        width: 661
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb842ae3ad12199f0800000000000000
+      internalID: -463552065405040452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Grass 2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1544
+        width: 422
+        height: 971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7787a799760066f0800000000000000
+      internalID: -693547223309908098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Stump 1
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 2167
+        width: 577
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec1c57e153c39790800000000000000
+      internalID: -7524455795864625943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Rock 8
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 1502
+        width: 1437
+        height: 974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e785f55ee3005b3e0800000000000000
+      internalID: -2038722986179078018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Rock 7
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 2468
+        width: 433
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692b30fceae866a80800000000000000
+      internalID: -8473928767402429802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Grass 1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1752
+        width: 333
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6080aa2fbc4f34380800000000000000
+      internalID: -8988071274514610170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Bush 2
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1663
+        width: 693
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c17b45a1f2c7b60800000000000000
+      internalID: 7745117249307352198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Stump 4
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1678
+        width: 564
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c52b5cd2029fe8a0800000000000000
+      internalID: -6273635214919260731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Grass 4
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 1429
+        width: 232
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c57796b32c5fd470800000000000000
+      internalID: 8421551136663107009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Grass 5
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 1439
+        width: 382
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f1a4ebedd34b440800000000000000
+      internalID: 4950649917271580557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Rock 1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1223
+        width: 460
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8b6b7ac80913d50800000000000000
+      internalID: 6715307453169711316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Bush 3
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1141
+        width: 445
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c059abb8328968d0800000000000000
+      internalID: -2852605708784283454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Grass 3
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1203
+        width: 818
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d252f790a801700800000000000000
+      internalID: 509058531285347650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Bush 5
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 676
+        width: 1419
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319a00264688ce470800000000000000
+      internalID: 8425258967625672979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Bush 4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 2128
+        height: 1081
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca90cab6575012130800000000000000
+      internalID: 3540116783965669804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Bush 6
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 57
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f17815761e0c2670800000000000000
+      internalID: 8515196485067370993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Berry Plant
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 47
+        width: 438
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5acb4b0118283710800000000000000
+      internalID: 1673131315237210717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Grass 6
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 75
+        width: 194
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be423e9d9caf4e30800000000000000
+      internalID: 4489997146475613881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Grass 7
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 80
+        width: 211
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40df464c9679eb770800000000000000
+      internalID: 8628500416610761988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Grass 8
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 87
+        width: 306
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e037456bc55d890800000000000000
+      internalID: -7433933671734505835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Grass 9
+      rect:
+        serializedVersion: 2
+        x: 4769
+        y: 89
+        width: 254
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29723e43e4ea2e440800000000000000
+      internalID: 4963721390233692050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Blurred Rock 9
+      rect:
+        serializedVersion: 2
+        x: 4221
+        y: 600
+        width: 847
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6051510a9f46d0530800000000000000
+      internalID: 3822822682002789638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
