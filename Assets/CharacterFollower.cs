@@ -13,7 +13,10 @@ public class CharacterFollower : MonoBehaviour
     }
 
     private void follow(){
-      this.gameObject.transform.position = Vector3.MoveTowards(this.gameObject.transform.position, characters[currentlySelectedCharacterIndex].transform.position, Time.deltaTime * followSpeed);
+      Vector3 targetLocation = characters[currentlySelectedCharacterIndex].transform.position;
+      targetLocation.z = this.gameObject.transform.position.z;
+      targetLocation.y = this.gameObject.transform.position.y;
+      this.gameObject.transform.position = Vector3.MoveTowards(this.gameObject.transform.position, targetLocation, Time.deltaTime * followSpeed);
     }
 
     public void cycleCharacterSelected(){

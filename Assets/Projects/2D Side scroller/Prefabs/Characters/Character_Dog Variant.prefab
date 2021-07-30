@@ -72,11 +72,26 @@ PrefabInstance:
       propertyPath: isOn
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 834279066960879304, guid: 429d07480136ff945b5abf3900e694ce,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 2.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 834279066960879304, guid: 429d07480136ff945b5abf3900e694ce,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 3.01
+      objectReference: {fileID: 0}
     - target: {fileID: 834279068119294663, guid: 429d07480136ff945b5abf3900e694ce,
         type: 3}
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 36383a89b2addf14985957eee5d40e95, type: 2}
+    - target: {fileID: 4535903382503858033, guid: 429d07480136ff945b5abf3900e694ce,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.38
+      objectReference: {fileID: 0}
     - target: {fileID: 7750436866770780482, guid: 429d07480136ff945b5abf3900e694ce,
         type: 3}
       propertyPath: m_Sprite
