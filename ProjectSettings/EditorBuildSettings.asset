@@ -11,27 +11,33 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Projects/2D Side scroller/Scenes/Woods_Loop01_TEMP.unity
     guid: e63017dbdf822164f88b7b93f8076576
-  - enabled: 1
+  - enabled: 0
     path: Assets/Projects/2D Side scroller/Scenes/MainMenu.unity
     guid: 7f599c19c1ccb3d48bb8d6f610a569b1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Projects/2D Side scroller/Scenes/Woods_Loop0.unity
     guid: cb56d33e5e04ea6489fd5dce566e9a6b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Projects/2D Side scroller/Scenes/Woods_Loop1.unity
     guid: e7eec70ad7581e64697761bae86c1a9c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Projects/2D Side scroller/Scenes/Woods_Loop2.unity
     guid: 087e082ad20595748baa347628a67b91
-  - enabled: 1
+  - enabled: 0
     path: Assets/Projects/2D Side scroller/Scenes/Woods_Loop3.unity
     guid: 3d53c6ee7ae294a41b9d3b40734ec333
-  - enabled: 1
+  - enabled: 0
     path: Assets/Projects/2D Side scroller/Scenes/Woods_Loop4.unity
     guid: ead33022052bd3248ac8f70a7c171a96
-  - enabled: 1
+  - enabled: 0
     path: Assets/Projects/2D Side scroller/Scenes/ThanksForPlaying.unity
     guid: 3e151fb4f84089e4e863cd4a421ec5ba
+  - enabled: 1
+    path: Assets/Projects/2D Side scroller/Scenes/Act1_Loop1.unity
+    guid: 77464ded344822c41868c527088b4208
+  - enabled: 1
+    path: Assets/Projects/2D Side scroller/Scenes/Act1_Loop2.unity
+    guid: b9d85224f41b97e4f9b62517cb193e57
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 3af6e52e6eaef4929b0f72c0023b4ed4,
       type: 2}
