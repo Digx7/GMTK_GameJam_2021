@@ -99,7 +99,7 @@ MonoBehaviour:
   movementInput: {x: 0, y: 0}
   playerVelocity: {x: 0, y: 0, z: 0}
   speed: 10
-  jumpSpeed: 10
+  jumpSpeed: 7
   gravityForce: 100
   touchingGround: 0
   paperPlayerAnimator: {fileID: 834279068119294663}
