@@ -28,6 +28,10 @@ public class InteractableObject : MonoBehaviour
       }
     }
 
+    public void setIsInteractabel(bool input){
+      interactable = input;
+    }
+
     private void InteractEventFunction(){
       InteractEvent.Invoke();
     }
