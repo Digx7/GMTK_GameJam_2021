@@ -82,6 +82,11 @@ PrefabInstance:
       propertyPath: m_Size.y
       value: 3.01
       objectReference: {fileID: 0}
+    - target: {fileID: 834279066960879306, guid: 429d07480136ff945b5abf3900e694ce,
+        type: 3}
+      propertyPath: m_TagString
+      value: Dog
+      objectReference: {fileID: 0}
     - target: {fileID: 834279068119294663, guid: 429d07480136ff945b5abf3900e694ce,
         type: 3}
       propertyPath: m_Controller
