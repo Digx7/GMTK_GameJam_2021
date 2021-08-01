@@ -1,0 +1,783 @@
+fileFormatVersion: 2
+guid: 45ac1f5eb9005c647a3c54928f314b26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2946420913958497228
+    second: Blurred Bush 1
+  - first:
+      213: -356785371540753752
+    second: Blurred Rock 2
+  - first:
+      213: 5945177492852934685
+    second: Blurred Rock 3
+  - first:
+      213: -4322758773744849217
+    second: Blurred Stump 3
+  - first:
+      213: -7182834995944817536
+    second: Blurred Rock 4
+  - first:
+      213: 6770732785897807293
+    second: Blurred Rock 5
+  - first:
+      213: 7199557137667496596
+    second: Blurred Rock 6
+  - first:
+      213: 6806493913641899922
+    second: IMG_1108_7
+  - first:
+      213: 4100996084535129301
+    second: Blurred Stump 4
+  - first:
+      213: 5300848709810119097
+    second: Blurred Bush 2
+  - first:
+      213: -5386212429865184868
+    second: Blurred Stump 1
+  - first:
+      213: 946222128079778408
+    second: Blurred Rock 7
+  - first:
+      213: 7660680331561943774
+    second: Blurred Grass 2
+  - first:
+      213: 7840925865709420701
+    second: Blurred Grass 3
+  - first:
+      213: -8314819538518218479
+    second: Blurred Bush 3
+  - first:
+      213: -5184736679983488666
+    second: Blurred Grass 4
+  - first:
+      213: 8706141741990748549
+    second: Blurred Grass 5
+  - first:
+      213: 8603068476942757438
+    second: Blurred Rock 8
+  - first:
+      213: -5278402633446324077
+    second: Blurred Rock 1
+  - first:
+      213: -759976426196344843
+    second: Blurred Grass 1
+  - first:
+      213: 509986844625416972
+    second: Blurred Rock 9
+  - first:
+      213: -437725722002809919
+    second: Blurred Bush 4
+  - first:
+      213: -4592545281418794312
+    second: Blurred Bush 5
+  - first:
+      213: -8781068808196011942
+    second: Blurred Bush 6
+  - first:
+      213: 563496471378829210
+    second: Blurred Berry Plant
+  - first:
+      213: -3762685530264428353
+    second: Blurred Grass 6
+  - first:
+      213: -5875262821537434112
+    second: Blurred Grass 7
+  - first:
+      213: 4257795017818786115
+    second: Blurred Grass 8
+  - first:
+      213: 2042320079198430031
+    second: Blurred Stump 2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blurred Bush 1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2567
+        width: 907
+        height: 584
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb274fd53ac3e820800000000000000
+      internalID: 2946420913958497228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Rock 2
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2809
+        width: 301
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2f14c48917c0bf0800000000000000
+      internalID: -356785371540753752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Rock 3
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2779
+        width: 671
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18852c4e63818250800000000000000
+      internalID: 5945177492852934685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Stump 3
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 2069
+        width: 533
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe2c395cc97204c0800000000000000
+      internalID: -4322758773744849217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Rock 4
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 2513
+        width: 336
+        height: 614
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cf672a0a1715c90800000000000000
+      internalID: -7182834995944817536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Rock 5
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 2538
+        width: 659
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd978c889976fd50800000000000000
+      internalID: 6770732785897807293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Rock 6
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 2821
+        width: 641
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a9cc26217f9e360800000000000000
+      internalID: 7199557137667496596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Stump 4
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 2189
+        width: 473
+        height: 635
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4fbfbf53aa9e830800000000000000
+      internalID: 4100996084535129301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Bush 2
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1981
+        width: 671
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1e15401d5609940800000000000000
+      internalID: 5300848709810119097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Stump 1
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 2324
+        width: 522
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91971915545045b0800000000000000
+      internalID: -5386212429865184868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Rock 7
+      rect:
+        serializedVersion: 2
+        x: 4538
+        y: 2478
+        width: 410
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8623fce1308a12d00800000000000000
+      internalID: 946222128079778408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Grass 2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1769
+        width: 313
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2429c6c24305a60800000000000000
+      internalID: 7660680331561943774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Grass 3
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1191
+        width: 403
+        height: 961
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9048c7288090dc60800000000000000
+      internalID: 7840925865709420701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Bush 3
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1596
+        width: 422
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119e42bfea3db9c80800000000000000
+      internalID: -8314819538518218479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Grass 4
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 1449
+        width: 209
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66165af957d1c08b0800000000000000
+      internalID: -5184736679983488666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Grass 5
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 1444
+        width: 365
+        height: 689
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5812f8789cd62d870800000000000000
+      internalID: 8706141741990748549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Rock 8
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 1479
+        width: 1414
+        height: 987
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ea882e23d346770800000000000000
+      internalID: 8603068476942757438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Rock 1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1337
+        width: 435
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39802f365c85fb6b0800000000000000
+      internalID: -5278402633446324077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Grass 1
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1399
+        width: 798
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff55e687750475f0800000000000000
+      internalID: -759976426196344843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Rock 9
+      rect:
+        serializedVersion: 2
+        x: 4153
+        y: 527
+        width: 810
+        height: 934
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03350a4556d31700800000000000000
+      internalID: 509986844625416972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Bush 4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 25
+        width: 2103
+        height: 1059
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb98f666c2ece9f0800000000000000
+      internalID: -437725722002809919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Bush 5
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 688
+        width: 1397
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae22e16600440c0800000000000000
+      internalID: -4592545281418794312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Bush 6
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 75
+        width: 643
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58c63b6170632680800000000000000
+      internalID: -8781068808196011942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Berry Plant
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 70
+        width: 420
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f98b02e01f1d700800000000000000
+      internalID: 563496471378829210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Grass 6
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 62
+        width: 348
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0261f127148cbc0800000000000000
+      internalID: -3762685530264428353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Grass 7
+      rect:
+        serializedVersion: 2
+        x: 4357
+        y: 65
+        width: 283
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006b330a79fd67ea0800000000000000
+      internalID: -5875262821537434112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Grass 8
+      rect:
+        serializedVersion: 2
+        x: 4764
+        y: 67
+        width: 237
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349448b820ab61b30800000000000000
+      internalID: 4257795017818786115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blurred Stump 2
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2418
+        width: 480
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4325469a47c75c10800000000000000
+      internalID: 2042320079198430031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 03bfe50e7d57a7240a416ee78005b2ef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

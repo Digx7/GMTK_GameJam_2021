@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 0969499f2954c2b43bbe7d9cc123ed02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1188128921143927142
+    second: Medium Bush 2
+  - first:
+      213: 6466922399561413768
+    second: Small Rock 2
+  - first:
+      213: 7750660168612723152
+    second: Small Rock 3
+  - first:
+      213: 2544245589674394326
+    second: Stump 3
+  - first:
+      213: 1903756741039906946
+    second: Small Rock 4
+  - first:
+      213: -5174085561798031567
+    second: Small Rock 6
+  - first:
+      213: 4903232822461592968
+    second: Small Bush 1
+  - first:
+      213: -5946572494504070878
+    second: Stump 1
+  - first:
+      213: 8180079069707196230
+    second: Stump 4
+  - first:
+      213: -460319806240737103
+    second: Small Rock 5
+  - first:
+      213: -8097288918897821953
+    second: Small Rock 7
+  - first:
+      213: 4408195851255980611
+    second: Tall Grass 2
+  - first:
+      213: 3339953197539783429
+    second: Tall Grass 1
+  - first:
+      213: -8992849397487063645
+    second: Grass 5
+  - first:
+      213: 3025359193336727605
+    second: Small Bush 2
+  - first:
+      213: -5916136202915078489
+    second: Stump 2
+  - first:
+      213: 8444862016607345712
+    second: Tall Grass 3
+  - first:
+      213: -7404280464942218230
+    second: Large Rock 1
+  - first:
+      213: 8822418914797913469
+    second: Small Rock 1
+  - first:
+      213: -2931183899558975443
+    second: Tall Grass 4
+  - first:
+      213: -5446927324673210906
+    second: Large Bush
+  - first:
+      213: 5562695297537847713
+    second: Medium Bush 1
+  - first:
+      213: -668584491344690042
+    second: Large Rock 2
+  - first:
+      213: -8179078780317664041
+    second: Small Bush 3
+  - first:
+      213: 4838016045116026692
+    second: Berry Plant
+  - first:
+      213: 1496266596276114825
+    second: Grass 1
+  - first:
+      213: -8817189817197915716
+    second: Grass 2
+  - first:
+      213: -7045358049546545405
+    second: Grass 3
+  - first:
+      213: -6777942587217359448
+    second: Grass 4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medium Bush 2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2538
+        width: 860
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e19db8a0be28fe0800000000000000
+      internalID: -1188128921143927142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Rock 2
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 2821
+        width: 254
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884ffdfb8af1fb950800000000000000
+      internalID: 6466922399561413768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Rock 3
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2798
+        width: 627
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d93eeccb50ef8b60800000000000000
+      internalID: 7750660168612723152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stump 3
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 2431
+        width: 455
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d285e142e9fe4320800000000000000
+      internalID: 2544245589674394326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Rock 4
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 2538
+        width: 291
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28060706ba08b6a10800000000000000
+      internalID: 1903756741039906946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Rock 6
+      rect:
+        serializedVersion: 2
+        x: 4322
+        y: 2846
+        width: 594
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1370d835894f138b0800000000000000
+      internalID: -5174085561798031567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Bush 1
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 2242
+        width: 626
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885fbd90648cb0440800000000000000
+      internalID: 4903232822461592968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stump 1
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 2498
+        width: 495
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221f9f192d7897da0800000000000000
+      internalID: -5946572494504070878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stump 4
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 2205
+        width: 439
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6475180f29a758170800000000000000
+      internalID: 8180079069707196230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Rock 5
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 2563
+        width: 613
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8b1f9339d9c99f0800000000000000
+      internalID: -460319806240737103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Rock 7
+      rect:
+        serializedVersion: 2
+        x: 4563
+        y: 2500
+        width: 363
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6736921a6a0af80800000000000000
+      internalID: -8097288918897821953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall Grass 2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1790
+        width: 266
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342a67665ce0d2d30800000000000000
+      internalID: 4408195851255980611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall Grass 1
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1576
+        width: 355
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503f9c1ccb5e95e20800000000000000
+      internalID: 3339953197539783429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass 5
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1857
+        width: 751
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ada2308e1bf23380800000000000000
+      internalID: -8992849397487063645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Bush 2
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 2053
+        width: 377
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5384cc4482c3cf920800000000000000
+      internalID: 3025359193336727605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stump 2
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 2083
+        width: 515
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae1b6ee779a5eda0800000000000000
+      internalID: -5916136202915078489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall Grass 3
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1466
+        width: 326
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cd115e24d223570800000000000000
+      internalID: 8444862016607345712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Rock 1
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 1504
+        width: 1367
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0441cd8526be3990800000000000000
+      internalID: -7404280464942218230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Rock 1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1347
+        width: 390
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75873482478f6a70800000000000000
+      internalID: 8822418914797913469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall Grass 4
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 1474
+        width: 159
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28617ff5c75257d0800000000000000
+      internalID: -2931183899558975443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Bush
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 223
+        width: 2060
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e50c7f0570a864b0800000000000000
+      internalID: -5446927324673210906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Bush 1
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 711
+        width: 1352
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1ba7396e9a23d40800000000000000
+      internalID: 5562695297537847713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Rock 2
+      rect:
+        serializedVersion: 2
+        x: 4180
+        y: 549
+        width: 758
+        height: 890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684801b82f5b8b6f0800000000000000
+      internalID: -668584491344690042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Bush 3
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 99
+        width: 594
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcfa351f231e7e80800000000000000
+      internalID: -8179078780317664041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berry Plant
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 87
+        width: 428
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fe7cac5f5142340800000000000000
+      internalID: 4838016045116026692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass 1
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 142
+        width: 127
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9851250ba8ec3c410800000000000000
+      internalID: 1496266596276114825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass 2
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 152
+        width: 147
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb11ab4a39c03a580800000000000000
+      internalID: -8817189817197915716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass 3
+      rect:
+        serializedVersion: 2
+        x: 4439
+        y: 124
+        width: 233
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307d65d8e2cd93e90800000000000000
+      internalID: -7045358049546545405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass 4
+      rect:
+        serializedVersion: 2
+        x: 4750
+        y: 154
+        width: 188
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adcae4c029efe1a0800000000000000
+      internalID: -6777942587217359448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8675f399b2dd79445a72e09f8ff6d9b9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
