@@ -1288,7 +1288,7 @@ PrefabInstance:
     - target: {fileID: 7427959797803071995, guid: ad24f81a2d938514696c36292f7c6320,
         type: 3}
       propertyPath: detectedSomething.m_PersistentCalls.m_Calls.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7427959797803071995, guid: ad24f81a2d938514696c36292f7c6320,
         type: 3}
@@ -1378,7 +1378,7 @@ PrefabInstance:
     - target: {fileID: 7427959797803071995, guid: ad24f81a2d938514696c36292f7c6320,
         type: 3}
       propertyPath: detectedSomething.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_BoolArgument
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7427959797803071995, guid: ad24f81a2d938514696c36292f7c6320,
         type: 3}
@@ -4996,7 +4996,7 @@ PrefabInstance:
     - target: {fileID: 7427959797803071995, guid: ad24f81a2d938514696c36292f7c6320,
         type: 3}
       propertyPath: detectedSomething.m_PersistentCalls.m_Calls.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7427959797803071995, guid: ad24f81a2d938514696c36292f7c6320,
         type: 3}
