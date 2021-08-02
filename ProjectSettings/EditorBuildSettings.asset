@@ -45,6 +45,14 @@ EditorBuildSettings:
     path: Assets/Projects/2D Side scroller/Scenes/Act1_Loop4.unity
     guid: 57d80afa9da258841a55578a166c7a99
   - enabled: 1
+    path: Assets/Projects/2D Side scroller/Scenes/Act2_Loop5.unity
+    guid: 45102bd718a95be43b6ee40a9efd1eda
+  - enabled: 1
+    path: Assets/Projects/2D Side scroller/Scenes/Act2_Loop6.unity
+    guid: a582d513ed54fcd41974e9f28637e94c
+  - enabled: 1
+    path: Assets/Projects/2D Side scroller/Scenes/Act2_Loop7.unity
+    guid: 106939dc27484de40adc4bbb7e66258e
     path: Assets/Projects/2D Side scroller/Scenes/Act3_Loop1.unity
     guid: 1b74232bb122d38458ccca75a98ee24c
   - enabled: 1
