@@ -20,6 +20,9 @@ public class PlayerInputManager : MonoBehaviour {
     [SerializeField] private UnityEvent SwapInput;
     [SerializeField] private UnityEvent JumpInput;
 
+    [SerializeField] private UnityEvent playFootsteps;
+    [SerializeField] private UnityEvent stopFootsteps;
+
     // --- Updates -------------------------------------
 
     public void Awake() {
@@ -32,8 +35,20 @@ public class PlayerInputManager : MonoBehaviour {
 
     private void setMoveDirection(Vector2 input){
       moveDirection = input;
-      if(isOn) moveInput.Invoke(moveDirection);
-      else moveInput.Invoke(new Vector2(0,0));
+      if(isOn) {
+        moveInput.Invoke(moveDirection);
+        if(moveDirection.x > 0.1 || moveDirection.x < -0.1 || moveDirection.y > 0.1 || moveDirection.y < -0.1){
+          playFootsteps.Invoke();
+          Debug.Log("Playing Footsteps sfx");
+        }
+        else{
+          stopFootsteps.Invoke();
+          Debug.Log("Stopping Footsteps sfx");
+        }
+      }
+      else {
+        moveInput.Invoke(new Vector2(0,0));
+      }
     }
 
     public Vector2 getMoveDirection(){

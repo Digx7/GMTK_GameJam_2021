@@ -14,6 +14,9 @@ public class InteractableObject : MonoBehaviour
     [SerializeField] private int maxNumberOfInteractions = 3;
     private int currentInteract = 1;
 
+    [SerializeField] private UnityEvent PlayUIAudio;
+    [SerializeField] private UnityEvent StopUIAudio;
+
     public void Interact(){
       if(playerInRange && interactable){
         if(interactType == InteractType.once){
@@ -36,12 +39,21 @@ public class InteractableObject : MonoBehaviour
       InteractEvent.Invoke();
     }
 
+    private void PlayUIAudioEventFuntion(){
+      if(interactable) PlayUIAudio.Invoke();
+    }
+
+    private void StopUIAudioEventFuntion(){
+      StopUIAudio.Invoke();
+    }
+
     // --- Collisions --------------
 
     public void OnCollisionEnter(Collision col){
       if(col.gameObject.tag == tagOfPlayer){
         //Debug.Log("The player entered the range");
         playerInRange = true;
+        PlayUIAudioEventFuntion();
       }
     }
 
@@ -49,6 +61,7 @@ public class InteractableObject : MonoBehaviour
       if(col.gameObject.tag == tagOfPlayer){
         //Debug.Log("The player entered the range");
         playerInRange = true;
+        PlayUIAudioEventFuntion();
       }
     }
 
@@ -56,6 +69,7 @@ public class InteractableObject : MonoBehaviour
       if(col.gameObject.tag == tagOfPlayer){
         //Debug.Log("The player exited the range");
         playerInRange = false;
+        StopUIAudioEventFuntion();
       }
     }
 
@@ -63,6 +77,7 @@ public class InteractableObject : MonoBehaviour
       if(col.gameObject.tag == tagOfPlayer){
         //Debug.Log("The player exited the range");
         playerInRange = false;
+        StopUIAudioEventFuntion();
       }
     }
 }
