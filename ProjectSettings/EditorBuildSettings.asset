@@ -29,7 +29,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Projects/2D Side scroller/Scenes/Woods_Loop4.unity
     guid: ead33022052bd3248ac8f70a7c171a96
-  - enabled: 0
+  - enabled: 1
     path: Assets/Projects/2D Side scroller/Scenes/ThanksForPlaying.unity
     guid: 3e151fb4f84089e4e863cd4a421ec5ba
   - enabled: 1
