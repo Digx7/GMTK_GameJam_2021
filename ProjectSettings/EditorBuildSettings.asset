@@ -53,8 +53,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Projects/2D Side scroller/Scenes/Act2_Loop7.unity
     guid: 106939dc27484de40adc4bbb7e66258e
-    path: Assets/Projects/2D Side scroller/Scenes/Act3_Loop1.unity
-    guid: 1b74232bb122d38458ccca75a98ee24c
   - enabled: 1
     path: Assets/Projects/2D Side scroller/Scenes/Act3_Loop2.unity
     guid: 61fa863061847a948bf01cfbd6784d65
@@ -67,6 +65,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Projects/2D Side scroller/Scenes/Act3_Loop5.unity
     guid: f15ef9d90d88c9d46a69831ec58ea35b
+  - enabled: 1
+    path: Assets/Projects/2D Side scroller/Scenes/Act3_Loop6.unity
+    guid: e0685830c0ed99341b4de60704df6910
+  - enabled: 1
+    path: Assets/Projects/2D Side scroller/Scenes/Act3_Loop7.unity
+    guid: 3da38a940872a3245950225a6210113d
+  - enabled: 1
+    path: Assets/Projects/2D Side scroller/Scenes/Act3_Loop8.unity
+    guid: 652f5260349b6f14fa66de42ff9135e5
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 3af6e52e6eaef4929b0f72c0023b4ed4,
       type: 2}
